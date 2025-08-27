@@ -12,8 +12,8 @@ int main() {
     }
 
     // Printing elements
-    // for (int x : vect) {
-    //     cout << x << " ";
-    // }
+    for (int x : vect) {
+        cout << x << " ";
+    }
     return 0;
 }
